@@ -6,7 +6,7 @@
   quote: >
     etcd is the backend for service discovery and stores cluster state and configuration
 - name: Rook
-  # date: 20yy-mm-dd  hanu
+  # date: 20yy-mm-dd  hanu kn
   link: https://rook.io
   image: https://raw.githubusercontent.com/cncf/artwork/master/projects/rook/horizontal/color/rook-horizontal-color.png
   quote: >
