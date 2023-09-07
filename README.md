@@ -16,7 +16,7 @@ manage Node versions:
 $ nvm install --lts
 ```
 
-### Setup
+### Setupk
 
  1. Clone this repo.
  2. From a terminal window, change to the cloned repo directory.
